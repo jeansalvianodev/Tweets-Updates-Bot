@@ -12,7 +12,7 @@ Twitter Updates Bot
 
 [//]: # (Add your gifs/images here:)
 <div align="center">
-  <img src="https://i.imgur.com/EZOAlNU.gif" alt="demo" height="500">
+  <img src="https://i.imgur.com/QPsuSR4.gif" alt="demo" height="500">
 </div>
 
 <hr />
