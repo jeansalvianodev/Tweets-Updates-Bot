@@ -11,9 +11,9 @@ Twitter Updates Bot
 
 
 [//]: # (Add your gifs/images here:)
-<div align="center">
-  ![save1](https://user-images.githubusercontent.com/59858254/167220513-a17a0336-337b-4d9f-8e9f-47dc088da0cb.gif)
-</div>
+
+![save1](https://user-images.githubusercontent.com/59858254/167220602-7935b411-5229-45b7-9517-cf6d24f455e1.gif)
+
 
 <hr />
 
