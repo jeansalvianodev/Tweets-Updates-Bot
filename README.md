@@ -47,4 +47,4 @@ pip install tweepy
 
 - You must send some message to the Telegram bot for it to get your user id.
 - If you choose to save the user IDs, the tweets will be sent to the IDs that are saved and also to the ones that are not but sent a message to the bot.
-- Your twitter api must have elevated access
+- Your twitter api must have elevated access.
