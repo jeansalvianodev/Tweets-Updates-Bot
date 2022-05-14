@@ -116,7 +116,11 @@ class BotShipping:
         users = first_users.split(',')
         user_ids = []
         for user in users:
-            user_ids.append(api.get_user(screen_name=user).id)  # get the twitter username 
+            try:
+                user_ids.append(api.get_user(screen_name=user).id)  # get the twitter username
+            except:
+                print(Fore.RED + Style.BRIGHT + 'Usuário inválido!' + Fore.RESET)
+                return
 
         stream_tweet.filter(follow=user_ids)
         
