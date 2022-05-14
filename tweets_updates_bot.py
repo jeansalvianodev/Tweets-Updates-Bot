@@ -106,6 +106,7 @@ class BotShipping:
                     if user_response == 'exit':
                         self.disconnect()
                         print(Fore.GREEN + Style.BRIGHT + 'Tweets enviados com sucesso!' + Fore.RESET)
+                        return
                     else:
                         self.limit += 10
                 
